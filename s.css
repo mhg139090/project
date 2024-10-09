@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    background-color: black;
+    direction: rtl;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+
+}
+
+nav {
+    padding: 20px auto;
+    text-align: center;
+    height: 30px;
+}
+
+ul {
+    display: inline-block;
+    margin: 20px;
+    width: 60px;
+    height: 20px;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 50%;
+}
